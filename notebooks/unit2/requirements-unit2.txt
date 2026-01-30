@@ -3,8 +3,9 @@ pygame
 numpy
 
 huggingface_hub
-pyyaml==6.0
+pyyaml>=6.0.1
 imageio
 imageio_ffmpeg
 pyglet==1.5.1
+
 tqdm
